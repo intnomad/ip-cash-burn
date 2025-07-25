@@ -48,12 +48,12 @@ const mockData = {
   oneGenericInsight: "💡 Cost-Saving Tip: Consider filing a provisional patent first to secure priority at lower cost.",
   upgradeTeaser: "Get detailed analysis and savings strategies...",
   aiInsights: ["💡 Use micro-entity status for USPTO.", "💡 File in EPO early for grant savings."],
-  actionablePlan: [
-    "• Assign responsibility for drafting provisional patent applications within 30 days.",
-    "• Complete and file provisional patent applications in all three target jurisdictions within 60 days.",
-    "• Schedule consultation with our IP team to optimize your filing strategy and reduce costs by 15-25%.",
-    "• Set up quarterly IP portfolio reviews to track maintenance costs and renewal deadlines.",
-    "• Get in touch with our team to make sure your plan is both cost-effective and optimised to protect your IP portfolio."
+                actionablePlan: [
+                "• Assign responsibility for drafting provisional patent applications within 30 days.",
+                "• Complete and file provisional patent applications in all three target jurisdictions within 60 days.",
+                "• Schedule consultation with our IP team to optimize your filing strategy and reduce costs by 15-25%.",
+                "• Set up quarterly IP portfolio reviews to track maintenance costs and renewal deadlines.",
+                "• Get in touch with our team to make sure your plan is both cost-effective and optimised to protect your IP portfolio."
   ],
   timeline: {
     filingToGrant: {

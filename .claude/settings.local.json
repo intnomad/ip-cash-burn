@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run dev:*)",
+      "Bash(rm:*)",
+      "Bash(ls:*)",
+      "Bash(pkill:*)",
+      "Bash(npx next dev:*)",
+      "Bash(find:*)",
+      "Bash(npm run lint)",
+      "Bash(npm run build:*)",
+      "Bash(curl:*)",
+      "Bash(timeout 5 npm run dev)",
+      "Bash(gtimeout:*)",
+      "Bash(npx tsc:*)",
+      "Bash(npx eslint:*)",
+      "Bash(npm install:*)",
+      "Bash(PORT=3001 npm run dev)",
+      "Bash(cat:*)"
+    ],
+    "deny": []
+  }
+}
