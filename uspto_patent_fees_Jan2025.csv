@@ -1,0 +1,129 @@
+Section,Fee Code,CFR Section,Description,Standard Fee,Small Entity Fee,Micro Entity Fee
+Patent application filing fees,1005/2005/3005,1.16(d),Provisional application filing fee,325.00,130.00,65.00
+Patent application filing fees,1011/2011/3011,1.16(a),Basic filing fee - Utility (paper filing also requires non-electronic filing fee under 1.16(t)),350.00,140.00,70.00
+Patent application filing fees,1012/2012/3012,1.16(b),Basic filing fee - Design,300.00,120.00,60.00
+Patent application filing fees,1013/2013/3013,1.16(c),Basic filing fee - Plant,240.00,96.00,48.00
+Patent application filing fees,1014/2014/3014,1.16(e),Basic filing fee - Reissue,350.00,140.00,70.00
+Patent application filing fees,1017/2017/3017,1.16(b),Basic filing fee - Design CPA,300.00,120.00,60.00
+Patent application filing fees,1019/2019/3019,1.16(e),Basic filing fee - Reissue (Design CPA),350.00,140.00,70.00
+Patent application filing fees,1053/2053/3053,1.17(i)(1),Non-English translation,150.00,60.00,30.00
+Patent application filing fees,1054/2054/3054,1.16(u),Non-DOCX filing surcharge,430.00,172.00,86.00
+Patent application filing fees,1111/2111/3111,1.16(k),Utility search fee,770.00,308.00,154.00
+Patent application filing fees,1113/2113/3113,1.16(m),Plant search fee,485.00,194.00,97.00
+Patent application filing fees,1201/2201/3201,1.16(h),Each independent claim in excess of three,600.00,240.00,120.00
+Patent application filing fees,1202/2202/3202,1.16(i),Each claim in excess of 20,200.00,80.00,40.00
+Patent application filing fees,1205/2205/3205,1.16(i),Each reissue claim in excess of 20,200.00,80.00,40.00
+Patent application filing fees,1311/2311/3311,1.16(o),Utility examination fee,880.00,352.00,176.00
+Patent application filing fees,1509/2509/3509,1.18(b)(1),Hague design issue fee*** 1,300.00,520.00,260.00
+Patent application filing fees,1511/2511/3511,1.18(a),Reissue issue fee 1,290.00,516.00,258.00
+Patent application filing fees,4011,1.16(a),Basic filing fee - Utility (electronic filing for small entities),n/a,70.00,n/a
+Patent search fees,1081/2081/3081,1.16(s),Utility application size fee -,450.00,180.00,90.00
+Patent search fees,1082/2082/3082,1.16(s),Design application size fee -,450.00,180.00,90.00
+Patent search fees,1083/2083/3083,1.16(s),Plant application size fee - for,450.00,180.00,90.00
+Patent search fees,1084/2084/3084,1.16(s),Reissue application size fee -,450.00,180.00,90.00
+Patent search fees,1085/2085/3085,1.16(s),Provisional application size fee -,450.00,180.00,90.00
+Patent search fees,1090/2090/3090,1.16(t),Non-electronic filing fee —,400.00,200.00,200.00
+Patent search fees,1112/2112/3112,1.16(l),Design search fee or Design CPA search fee,300.00,120.00,60.00
+Patent search fees,1114/2114/3114,1.16(n),Reissue search fee or Reissue (Design CPA) search fee,770.00,308.00,154.00
+Patent examination fees,1312/2312/3312,1.16(p),Design examination fee or Design CPA examination fee,700.00,280.00,140.00
+Patent examination fees,1313/2313/3313,1.16(q),Plant examination fee,725.00,290.00,145.00
+Patent examination fees,1314/2314/3314,1.16(r),Reissue examination fee or Reissue (Design CPA) examination fee,2550.00,1020.00,510.00
+Patent issue and publication fees,1501/2501/3501,1.18(a),Utility issue fee,1290.00,516.00,258.00
+Patent issue and publication fees,1502/2502/3502,1.18(b)(1),Design issue fee,1300.00,520.00,260.00
+Patent issue and publication fees,1503/2503/3503,1.18(c),Plant issue fee,905.00,362.00,181.00
+Patent extension of time fees,1251/2251/3251,1.17(a)(1),"Extension for response within first month, except provisional applications",235.00,94.00,47.00
+Patent extension of time fees,1252/2252/3252,1.17(a)(2),"Extension for response within second month, except provisional applications",690.00,276.00,138.00
+Patent extension of time fees,1261/2261/3261,1.17(u)(1),Extension for response within,50.00,20.00,10.00
+Patent extension of time fees,1262/2262/3262,1.17(u)(2),Extension for response within,100.00,40.00,20.00
+Patent extension of time fees,1263/2263/3263,1.17(u)(3),Extension for response within,200.00,80.00,40.00
+Patent extension of time fees,1264/2264/3264,1.17(u)(4),Extension for response within,400.00,160.00,80.00
+Patent extension of time fees,1265/2265/3265,1.17(u)(5),Extension for response within,800.00,320.00,160.00
+Patent extension of time fees,1554/2554/3554,1.20(h),Surcharge - 3.5 year - late payment,540.00,216.00,108.00
+Patent extension of time fees,1555/2555/3555,1.20(h),Surcharge - 7.5 year - late payment,540.00,216.00,108.00
+Patent extension of time fees,1556/2556/3556,1.20(h),Surcharge - 11.5 year - late,540.00,216.00,108.00
+Patent maintenance fees,1551/2551/3551,1.20(e),"For maintaining an original or any reissue patent, due at 3.5 years",2150.00,860.00,430.00
+Patent maintenance fees,1552/2552/3552,1.20(f),"For maintaining an original or any reissue patent, due at 7.5 years",4040.00,1616.00,808.00
+Patent maintenance fees,1553/2553/3553,1.20(g),"For maintaining an original or any reissue patent, due at 11.5 years",8280.00,3312.00,1656.00
+Miscellaneous patent fees,1401/2401/3401,41.20(b)(1),Notice of appeal 905.00 362.00 181.00* n/a 41.20(b)(2)(i) Filing a brief in support of an appeal,0.00,0.00,0.00
+Miscellaneous patent fees,1412/2412/3412,42.15(c)(1),Petition for a derivation proceeding,452.00,452.00,452.00
+Miscellaneous patent fees,1418,42.15(e),Pro hac vice admission fee,269.00,n/a,n/a
+Miscellaneous patent fees,1456/2456/3456,1.18(f),Request for reinstatement of term reduced,452.00,452.00,452.00
+Miscellaneous patent fees,1466/2466/3466,1.17(g)(2)(i),First request for suspension of action,300.00,120.00,60.00
+Miscellaneous patent fees,1467/2467/3467,1.17(g)(2)(ii),Subsequent request for suspension of action,450.00,180.00,90.00
+Miscellaneous patent fees,1601/2601/3601,1.445(a)(1)(i)(A),Transmittal fee,285.00,114.00,57.00
+Miscellaneous patent fees,1605/2605/3605,1.482(a)(1)(i),Preliminary examination fee - U.S. was the ISA,705.00,282.00,141.00
+Miscellaneous patent fees,1614/2614/3614,1.492(d),Each independent claim in excess of three,600.00,240.00,120.00
+Miscellaneous patent fees,1615/2615/3615,1.492(e),Each claim in excess of 20,200.00,80.00,40.00
+Miscellaneous patent fees,1616/2616/3616,1.492(f),Multiple dependent claim,925.00,370.00,185.00
+Miscellaneous patent fees,1631/2631/3631,1.492(a),Basic national stage fee 350.00 140.00 70.00 n/a 1.492(b)(1) National stage search fee - U.S. was the ISA or,0.00,0.00,0.00
+Miscellaneous patent fees,1632/2632/3632,1.492(b)(4),National stage search fee - all other situations 770.00 308.00 154.00 n/a 1.492(c)(1) National stage examination fee - U.S. was the,0.00,0.00,0.00
+Miscellaneous patent fees,1641/2641/3641,1.492(b)(2),National stage search fee - U.S. was the ISA,150.00,60.00,30.00
+Miscellaneous patent fees,1703,Supplemental,fee (for each page over 30),18.00,18.00,18.00
+Miscellaneous patent fees,1709,International,search (KIPO),825.00,825.00,825.00
+Miscellaneous patent fees,1718,International,search (IPOPHL),600.00,600.00,600.00
+Miscellaneous patent fees,1806/2806/3806,1.17(p),Submission of an,280.00,112.00,56.00
+Miscellaneous patent fees,1807/2807/3807,1.17(q),Processing fee for provisional applications,54.00,54.00,54.00
+Miscellaneous patent fees,1808/2808/3808,1.17(i)(2),Other publication processing fee,151.00,151.00,151.00
+Miscellaneous patent fees,1809/2809/3809,1.17(r),Filing a submission after final,945.00,378.00,189.00
+Miscellaneous patent fees,1810/2810/3810,1.17(s),For each additionalinvention to,945.00,378.00,189.00
+Miscellaneous patent fees,1811/2811/3811,1.20(a),Certificate of correction,172.00,172.00,172.00
+Miscellaneous patent fees,1816/2816/3816,1.20(b),Processing fee for correcting inventorship,172.00,172.00,172.00
+Miscellaneous patent fees,1819/2819/3819,1.17(d),Correction of inventorship after,690.00,276.00,138.00
+Miscellaneous patent fees,1830/2830/3830,1.17(i)(1),"Processing fee, except",150.00,60.00,30.00
+Miscellaneous patent fees,1832/2832/3832,1.17(v)(1),Filing an Information,200.00,200.00,200.00
+Miscellaneous patent fees,1833/2833/3833,1.17(v)(2),Filing an Information,500.00,500.00,500.00
+Miscellaneous patent fees,1834/2834/3834,1.17(v)(3),Filing an Information,800.00,800.00,800.00
+Miscellaneous patent fees,8005,1.19(a)(1),Patent Application Publication (PAP),3.00,3.00,3.00
+Miscellaneous patent fees,8017,1.19(f),Copy of non-U.S. document,27.00,27.00,27.00
+Miscellaneous patent fees,8020,1.21(e),International type search report 43.00 43.00 43.00 n/a 1.21(h)(1) Recording each patent assignment,0.00,0.00,0.00
+Miscellaneous patent fees,8022,1.21(i),Publication in Official Gazette,27.00,27.00,27.00
+Miscellaneous patent fees,8053,1.21(p),Additional fee for overnight delivery,43.00,43.00,43.00
+Miscellaneous patent fees,8054,1.21(q),Additional fee for expedited service,183.00,183.00,183.00
+Patent trial and appeal fees,1405/2405/3405,41.20(a),Petitions to the Chief,452.00,452.00,452.00
+Patent trial and appeal fees,1407/2407/3407,42.15(a)(3),Inter partes review request of each,470.00,470.00,470.00
+Patent trial and appeal fees,1409/2409/3409,42.15(b)(3),Post-grant or covered,595.00,595.00,595.00
+Patent trial and appeal fees,1415/2415/3415,42.15(a)(4),Inter partes post-institution request,940.00,940.00,940.00
+Patent trial and appeal fees,1814/2814/3814,1.20(d),"Statutory disclaimer,",183.00,183.00,183.00
+Patent trial and appeal fees,1821/2821/3821,1.20(c)(3),Each reexamination independent,600.00,240.00,120.00
+Patent trial and appeal fees,1822/2822/3822,1.20(c)(4),Each reexamination claim in excess of,200.00,80.00,40.00
+Patent trial and appeal fees,1828/2828/3828,1.20(k)(3)(i),Supplemental examinationdocument,195.00,78.00,39.00
+Patent trial and appeal fees,1829/2829/3829,1.20(k)(3)(ii),Supplemental examinationdocument,325.00,130.00,65.00
+Patent petition fees,1411/2411/3411,42.15(d),Request to make a,452.00,452.00,452.00
+Patent petition fees,1419/2419/3419,42.15(f),Request for Director Review of,452.00,452.00,452.00
+Patent petition fees,1420/2420/3420,42.15(f),Request for Director Review of a,452.00,452.00,452.00
+Patent petition fees,1421/2421/3421,42.15(f),Request for Director Review of,452.00,452.00,452.00
+Patent petition fees,1462/2462/3462,1.17(f),Petitions requiring the petition fee set,450.00,180.00,90.00
+Patent petition fees,1464/2464/3464,1.17(h),Petitions requiring the petition fee set,150.00,60.00,30.00
+Patent Cooperation Treaty fees,1701,PCT,International filing fee (first 30 pages - filed electronically without ePCT or PCT-EASY .zip file),1482.00,1482.00,1482.00
+Patent Cooperation Treaty fees,1710,PCT,International filing fee (first 30 pages - filed electronically with ePCT or PCT-EASY .zip file),1362.00,1362.00,1362.00
+Patent penalty fines,9301,35 U.S.C. 41(j),Penalty for false small entity assertion,Variable,Variable,Variable
+Patent fees,1051/2051/3051,1.16(f),"Surcharge - Late filing fee,",170.00,68.00,34.00
+Patent fees,1052/2052/3052,1.16(g),Surcharge - Late provisional filing fee,65.00,26.00,13.00
+Patent fees,1203/2203/3203,1.16(j),Multiple,925.00,370.00,185.00
+Patent fees,1204/2204/3204,1.16(h),Each reissue independent claim in,600.00,240.00,120.00
+PCT fees - national stage,1455/2455/3455,1.18(e),Filing an application for,226.00,226.00,226.00
+PCT fees - national stage,1459/2459/3459,1.20(j)(3),Subsequent application for,680.00,680.00,680.00
+PCT fees - international stage,1606/2606/3606,1.482(a)(1)(ii),Preliminary examination fee - U.S.,880.00,352.00,176.00
+PCT fees - international stage,1607/2607/3607,1.482(a)(2),Supplemental examination fee,705.00,282.00,141.00
+PCT fees - national stage,1617/2617/3617,1.492(h),"Search fee, examination fee or",170.00,68.00,34.00
+PCT fees - national stage,1618/2618/3618,1.492(i),English translation after thirty,150.00,60.00,30.00
+PCT fees - international stage,1621/2621/3621,1.445(a)(4),Transmitting application to Intl. Bureau,285.00,114.00,57.00
+PCT fees - international stage,1627/2627/3627,1.445(a)(5),and Late furnishing fee for providing,345.00,138.00,69.00
+PCT fees - national stage,1633/2633/3633,1.492(c)(2),National stage examination fee -,880.00,352.00,176.00
+PCT fees - national stage,1642/2642/3642,1.492(b)(3),National stage search fee -,580.00,232.00,116.00
+PCT fees - national stage,1681/2681/3681,1.492(j),National stage application size fee -,450.00,180.00,90.00
+PCT fees - international stage,1690/2690/3690,1.445(a)(1)(ii),Non-electronic filing fee (additional,400.00,200.00,200.00
+PCT fees - international stage,1706,Handling,"fee - 90% reduction,",24.10,24.10,24.10
+Hague - international design application fees,1781/2781/3781,1.1031(a),Hague international design,130.00,52.00,26.00
+PCT fees - national stage,1783/2783/3783,1.17(t),Petition to convert an,195.00,78.00,39.00
+Patent fees,4011†,1.16(a),Basic filing fee - Utility (electronic,n/a,70.00,n/a
+Hague - international design application fees,8001,1.19(a)(1),"Printed copy of patent w/o color,",3.00,3.00,3.00
+Hague - international design application fees,8003,1.19(a)(2),Uncertified printed copy of plant,16.00,16.00,16.00
+Hague - international design application fees,8007,1.19(b)(1)(i)(A),Copy of patent application,38.00,38.00,38.00
+Hague - international design application fees,8010,1.19(b)(1)(i)(D),"Individual application documents,",27.00,27.00,27.00
+Hague - international design application fees,8013,1.19(b)(3),"Copy of office records, except",27.00,27.00,27.00
+Hague - international design application fees,8014,1.19(b)(4),"For assignment records, abstract of",38.00,38.00,38.00
+Hague - international design application fees,8021,1.21(h)(2),Recording each,54.00,54.00,54.00
+Hague - international design application fees,8026,1.21(n),Handling fee for incomplete,151.00,151.00,151.00
+Hague - international design application fees,8051,1.19(b)(1)(i)(B),"Copy patent file wrapper, paper",312.00,312.00,312.00
+Hague - international design application fees,8052,1.19(b)(1)(ii)(B),"Copy patent file wrapper,",65.00,65.00,65.00

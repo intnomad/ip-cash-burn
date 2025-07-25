@@ -1,0 +1,62 @@
+# Dependencies
+node_modules/
+/.pnp
+.pnp.js
+
+# Testing
+/coverage
+
+# Next.js
+/.next/
+/out/
+
+# Production
+/build
+
+# Misc
+.DS_Store
+*.pem
+
+# Debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Local env files
+.env*.local
+.env.production
+
+# Vercel
+.vercel
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+dev-*.log
+
+# Database
+*.db
+*.sqlite
+
+# PDF files (documentation)
+*.pdf
+
+# SQL backup files
+*-backup.sql
+disable-rls-temp.sql
+quick-rls-fix.sql
+rls-policy-fix.sql
+fix-*.sql
+
+# Test files
+test-*.js
+execute-fix.js
+simple-fix.js
+data-migration.js

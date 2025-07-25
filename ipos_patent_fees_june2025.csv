@@ -1,0 +1,55 @@
+Form Code,Category,Description,Amount (SGD),Notes
+PF1,Filing Fees,Request for the Grant of a Patent,170.00,Basic filing fee
+PF2,Filing Fees,Reference to Registrar on Determination of Entitlement to Patent Before or After Grant,450.00,Entitlement determination
+NA,Filing Fees,Application for Authorisation by Registrar to Carry out Act on Behalf of Person to whom Directions were Given,50.00,Authorization application
+NA,Filing Fees,Request for Directions on Handling of Dispute Between Joint Applicants,450.00,Joint applicant disputes
+NA,Filing Fees,Reference to Registrar to determine the question of a licence,450.00,Licence determination
+PF7,Filing Fees,Application to Add and/or Remove Inventors,450.00,Inventor changes
+PF8,Filing Fees,Statement of Inventorship and of Right to Grant of Patent,0.00,No fee required
+PF9,Filing Fees,Request for Early Publication,50.00,Early publication request
+PF10,Search Fees,Request for Search Report or Supplementary,1735.00,Search report
+PF11,Search and Examination Fees,Request for Search and Examination Report (PCT with IPOS search),1750.00,Plus S$40 for each claim over 20
+PF11,Search and Examination Fees,Request for Search and Examination Report (Other cases),2050.00,Plus S$40 for each claim over 20
+PF12,Examination Fees,Request for Examination Report,1420.00,Plus S$40 for each claim over 20
+PF12A,Examination Fees,Request for Supplementary Examination Report,0.00,No fee required
+PF12B,Examination Fees,Request for an Examination Review Report with the Request to Amend Application Before Grant,1420.00,Examination review
+PF11-FAST4,Acceleration Fees,Additional fee for patent acceleration SG IP FAST 4 (Search and Examination),1800.00,Fast track processing
+PF11-FAST8,Acceleration Fees,Additional fee for patent acceleration SG IP FAST 8 (Search and Examination),900.00,Fast track processing
+PF12-FAST4,Acceleration Fees,Additional fee for patent acceleration SG IP FAST 4 (Examination only),1200.00,Fast track processing
+PF12-FAST8,Acceleration Fees,Additional fee for patent acceleration SG IP FAST 8 (Examination only),600.00,Fast track processing
+PF13A-FAST,Acceleration Fees,Additional fee for patent acceleration SG IP FAST 4/8 (Response to Written Opinion),150.00,Fast track processing
+PF13,Amendment Fees,Request to Amend Application Before Grant,0.00,No fee required
+PF13A,Amendment Fees,Response to Written Opinion,0.00,No fee required
+PF14-Legacy1,Grant Fees,"Payment of Fee for Grant of Patent (lodged before 14 Feb 2014, filing before 1 July 2004)",170.00,Legacy applications
+PF14-Legacy2,Grant Fees,"Payment of Fee for Grant of Patent (lodged on/after 14 Feb 2014, filing before 1 July 2004)",210.00,Plus S$40 for each claim over 20
+PF14-Current,Grant Fees,Payment of Fee for Grant of Patent (filing on/after 1 July 2004),210.00,Plus S$40 for each claim over 20
+PF15-Y5-7,Renewal Fees,"Renewal fee for each year of the 5th, 6th or 7th year",165.00,"Per year, years 5-7"
+PF15-Y8-10,Renewal Fees,"Renewal fee for each year of the 8th, 9th or 10th year",430.00,"Per year, years 8-10"
+PF15-Y11-13,Renewal Fees,"Renewal fee for each year of the 11th, 12th or 13th year",600.00,"Per year, years 11-13"
+PF15-Y14-16,Renewal Fees,"Renewal fee for each year of the 14th, 15th or 16th year",775.00,"Per year, years 14-16"
+PF15-Y17-19,Renewal Fees,"Renewal fee for each year of the 17th, 18th or 19th year",945.00,"Per year, years 17-19"
+PF15-Y20,Renewal Fees,Renewal fee for the 20th year,1120.00,Year 20 only
+PF15-Y20+,Renewal Fees,Renewal fee for each year after the 20th year,1380.00,Per year after year 20
+PF15-Late1,Late Payment Fees,Late payment of renewal fee not exceeding one month,50.00,Additional to renewal fee
+PF15-Late2,Late Payment Fees,Late payment of renewal fee for each succeeding month (max 6 months),100.00,"Per month, additional to renewal fee"
+PF17,Post-Grant Fees,Application Amend Specification After Grant,1250.00,Post-grant amendment
+PF19,Post-Grant Fees,Application for Restoration of Patent,500.00,Patent restoration
+PF20,Post-Grant Fees,Payment of Additional Fee and Renewal Fee for Restoration of Patent,300.00,Plus applicable renewal fees
+PF28,Post-Grant Fees,"Application for Entry to be Made, or for Cancellation of Entry, in Register to Effect that Licences under Patent are to be Available as of Right",40.00,Licence availability registration
+NA,Post-Grant Fees,Application for Settlement of Terms of Licence of Right,380.00,Licence terms settlement
+NA,Post-Grant Fees,Application for Information on Corresponding Applications for Patent,100.00,Information request
+PF35,Post-Grant Fees,Application for Revocation of Patent,500.00,Patent revocation
+PF36-PreGrant,Post-Grant Fees,Request for Re-examination of Patent (In Response to Direction of Registrar),900.00,Pre-grant re-examination
+PF36-PostGrant,Post-Grant Fees,Request for Re-examination of Patent (After Grant),3200.00,Post-grant re-examination
+PCT-IB-Basic,PCT Fees,PCT International filing fee (≤30 sheets),2026.00,International Bureau fee
+PCT-IB-Extra,PCT Fees,PCT International filing fee (per sheet >30),23.00,Per additional sheet
+PCT-IB-PDF,PCT Fees,PCT Electronic filing discount (PDF format),-305.00,Discount for electronic filing
+PCT-IB-XML,PCT Fees,PCT Electronic filing discount (XML format),-457.00,Discount for electronic filing
+PCT-SG-Transmittal,PCT Fees,PCT Transmittal Fee,150.00,Singapore receiving office
+PCT-SG-Priority,PCT Fees,PCT Priority Document Fee,28.00,Priority document handling
+PCT-SG-Late,PCT Fees,PCT Late Payment Fee,Variable,"50% of unpaid fee (min S$150, max 50% of total international filing fee)"
+PCT-SG-Restoration,PCT Fees,PCT Restoration of Right of Priority,250.00,Priority restoration
+PCT-SG-Copies,PCT Fees,PCT Fees for copies of documents cited in the file,30.00,Per document
+PCT-IPOS-Search,PCT Fees,Search fee (PCT Rule 16) - IPOS as ISA,2240.00,International search by IPOS
+PCT-IPOS-Additional,PCT Fees,Additional search fee (PCT Rule 40.2) - IPOS as ISA,2240.00,Additional international search
+PCT-IPOS-Protest,PCT Fees,Protest fee (PCT Rule 40.2(e)) - IPOS as ISA,1120.00,Protest against additional search fee

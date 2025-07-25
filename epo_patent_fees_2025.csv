@@ -1,0 +1,29 @@
+Fee Code,Category,Description,Amount (EUR),Notes
+001,Filing Fees,Filing fee - EP direct (not online),285.00,Paper filing
+001,Filing Fees,Filing fee - EP direct (online),135.00,Electronic filing
+002,Search Fees,Fee for a European search (Applications filed on/after 01.07.2005),1520.00,Standard European search
+002,Search Fees,Supplementary search for applications filed before 01.07.2005,Variable,Legacy applications
+003,Search Fees,Fee for an international search,1845.00,PCT international search
+004,Search Fees,Fee for an international-type search,Variable,Specific international search type
+005,Designation Fees,Designation fee,685.00,Fee for designating countries
+006,Examination Fees,Examination fee,1915.00,Substantive examination
+007,Grant and Publication Fees,Fee for grant and printing (not more than 35 pages),1080.00,Standard grant fee
+008,Grant and Publication Fees,Additional printing fee for 36th and each subsequent page,18.00,Per page over 35 pages
+010,Opposition Fees,Opposition fee,880.00,Fee for filing opposition
+011,Appeal Fees,Fee for appeal,Variable,Appeal proceedings
+030,Renewal Fees,Renewal fee for the 3rd year,530.00,Annual maintenance fee
+031,Renewal Fees,Renewal fee for the 4th year,690.00,Annual maintenance fee
+032,Renewal Fees,Renewal fee for the 5th year,845.00,Annual maintenance fee
+033,Renewal Fees,Renewal fee for the 6th year,1000.00,Annual maintenance fee
+034,Renewal Fees,Renewal fee for the 7th year,1155.00,Annual maintenance fee
+035,Renewal Fees,Renewal fee for the 8th year,1305.00,Annual maintenance fee
+036,Renewal Fees,Renewal fee for the 9th year,1440.00,Annual maintenance fee
+037,Renewal Fees,Renewal fee for the 10th year,1590.00,Annual maintenance fee
+201,PCT Fees,PCT transmittal fee,120.00,EPO as receiving office
+202,PCT Fees,PCT search fee,1845.00,EPO as International Searching Authority
+501,Additional Fees,Additional filing fee for the 36th and each subsequent page,17.00,Per page over 35 pages
+502,Additional Fees,Additional fee for each claim in excess of 15,270.00,Per claim over 15
+701,Surcharges,Late payment surcharge (up to 6 months),50%,Percentage of original fee
+ME-001,Micro Entity Fees,Filing fee - EP direct (online) - Micro entity,94.50,30% reduction for micro entities
+ME-002,Micro Entity Fees,European search fee - Micro entity,1064.00,30% reduction for micro entities
+ME-006,Micro Entity Fees,Examination fee - Micro entity,1340.50,30% reduction for micro entities
