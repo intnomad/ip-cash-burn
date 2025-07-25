@@ -55,7 +55,7 @@ const getOpenAI = () => {
       completions: {
         create: async (params: any) => {
           const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
-          const prompt = params.messages[0]?.content || '';
+          const prompt = params.messages.map((msg: any) => msg.content).join('\n');
           
           const result = await model.generateContent(prompt);
           const response = await result.response;
@@ -380,7 +380,7 @@ async function generateGenericInsight(input: UserInput): Promise<string> {
   - Timing optimization
   
   Keep it under 50 words and make it feel valuable but not comprehensive.
-  Format: "💡 Cost-Saving Tip: [insight]"
+  Format: "�� Cost-Saving Tip: [insight]"
   `;
 
   try {
